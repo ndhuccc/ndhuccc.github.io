@@ -224,7 +224,8 @@ span {
 }
 
 .mu-primary-btn:hover,
-.mu-primary-btn:focus {
+.mu-primary-btn:focus,
+.mu-primary-btn:span {
 	background-color: #fff;
 	color: #000;
 }
