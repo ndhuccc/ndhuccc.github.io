@@ -175,6 +175,10 @@ button:focus {
 	border: none;
 }
 
+span {
+	font-weight: 900; 
+}
+
 /*Wordpress default class*/
 
 .alignleft {
